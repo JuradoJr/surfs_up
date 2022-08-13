@@ -10,8 +10,6 @@ The Purpose of this analysis is to analyze the different temperatures in Oahu on
 
 <img width="159" alt="Screen Shot 2022-08-12 at 5 05 16 PM" src="https://user-images.githubusercontent.com/104862099/184460102-8df20759-221d-42d8-9ea1-cceb06d28c90.png">
 - For December we find that there are 1,517 recorded temperatures with the average temperature being 71. A minimum of 56.0 and a maximum of 83.0. The standard deviation is also 3.75.
-
-
 - From both month’s datasets we notice that there is only a 0.5 difference in standard deviations and that the average temperature tends to be only slightly cooler in December. 
 
 
